@@ -1,0 +1,14 @@
+.first-option,
+.second-option {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-option {
+    color: white;
+    background-color: black;
+}
+
+.second-option {
+    background-color: yellow
+}
