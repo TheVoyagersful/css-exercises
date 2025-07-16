@@ -1,8 +1,8 @@
 .odd-number {
     background-color: lightcoral;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.odd-number.different {
+.adjust-font-size {
     font-size: 24px;
 }
 
@@ -13,6 +13,5 @@
 
 #number4 {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
